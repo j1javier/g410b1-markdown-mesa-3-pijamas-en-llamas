@@ -1,5 +1,5 @@
 # g410b1-markdown-mesa-3-pijamas-en-llamas
-![](http://r78.cooltext.com/rendered/cooltext316231243939612.gif)
+
 g410b1-markdown-mesa-3-pijamas-en-llamas created by GitHub Classroom
 
  ![](https://github.com/PFLC/g410b1-markdown-mesa-3-pijamas-en-llamas/blob/master/Logo.jpg)
