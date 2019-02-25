@@ -24,4 +24,4 @@
 
 ![](https://i.pinimg.com/564x/0e/54/d5/0e54d5b44304a481fb81969f21036e6b.jpg?b=t)
 
-* [Menú](https://github.com/PFLC/g410b1-markdown-mesa-3-pijamas-en-llamas/edit/master/README.md)
+* [Menú](README.md)
