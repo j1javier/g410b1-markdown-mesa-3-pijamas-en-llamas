@@ -2,6 +2,8 @@
 
 g410b1-markdown-mesa-3-pijamas-en-llamas created by GitHub Classroom
 
+![](http://r69.cooltext.com/rendered/cooltext316232104446892.gif)
+
  ![](https://github.com/PFLC/g410b1-markdown-mesa-3-pijamas-en-llamas/blob/master/Logo.jpg)
 
  # Malware
