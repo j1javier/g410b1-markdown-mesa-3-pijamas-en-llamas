@@ -60,23 +60,3 @@ Los ordenadores infectados con spyware van muy ralentizada la conexión a Intern
 
      ![](https://www.alizila.com/wp-content/uploads/2018/08/shutterstock_677646532-992x558.jpg)
      
-## Progamas Antimalware
-
-* ### Antivirus :
-
-     El antivirus es un programa que analiza las distintas unidades y dispositivos, así como el flujo de datos entrantes y salientes, revisando el código de los archivos Utiliza una base de datos con caracteres y características de distintos virus. Puede detectar virus, pero no siempre identificarlos. Es conveniente que esté actualizado. Los antivirus protegen contra virus, troyanos, gusanos y, la mayoría de los antivirus contienen antispyware y filtros antispam. 
-
-* ### Cortafuegos o firewall :
-
-     Es un sistema de defensa que controla y filtra el tráfico de entrada y salida a una red.Se configura para que controle el tráfico de los puertos y nos muestre alertas para pedir confirmación de cualquier programa que utilice la conexión a Internet. Normalmente vienen incorporados en los sistemas operativos aunque también los hay de software libre y gratuito.
-
-* ### Contraseñas :
-
-     Pueden ayudar a proteger la seguridad en un archivo, una carpeta o un ordenador dentro de una red local o en Internet. 
-
- * ### Criptografía
-
-      Es el cifrado de información utilizado para proteger archivos, comunicaciones y claves.
-     
-     
-     
