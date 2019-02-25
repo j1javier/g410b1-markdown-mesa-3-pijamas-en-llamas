@@ -23,3 +23,5 @@
 ##### Fue en ese año cuando aparecieron gusanos como el Mydoom, el Netsky, el Sasser, o el Bagle, que alarmaron a toda la sociedad y lo que buscaban era tener la mayor repercusión y reconocimiento posible. Ese fue el año más duro de este tipo epidemias y curiosamente el último. Los creadores de malware se dieron cuenta de que sus conocimientos servirían para algo más que para tener repercusión mediática… para ganar dinero
 
 ![](https://i.pinimg.com/564x/0e/54/d5/0e54d5b44304a481fb81969f21036e6b.jpg?b=t)
+
+* [Menú](https://github.com/PFLC/g410b1-markdown-mesa-3-pijamas-en-llamas/edit/master/README.md)
